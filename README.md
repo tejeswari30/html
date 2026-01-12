@@ -14,6 +14,7 @@ This repository contains my HTML learning journey from scratch.
 ## Files
 - 01-html-structure.html : Basic HTML document structure
 - 02-text-tags.html : Headings, paragraph and text formatting tags
+- 03-lists.html : Ordered and unordered lists
 
 
 ## Goal

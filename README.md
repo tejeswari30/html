@@ -17,6 +17,7 @@ This repository contains my HTML learning journey from scratch.
 - 03-lists.html : Ordered and unordered lists
 - 04-links-images.html : Anchor tag and image tag usage
 - 05-tables.html : Table creation using table, tr, th, td
+- 06-forms.html : Basic HTML form with input fields
 
 
 ## Goal

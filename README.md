@@ -16,6 +16,7 @@ This repository contains my HTML learning journey from scratch.
 - 02-text-tags.html : Headings, paragraph and text formatting tags
 - 03-lists.html : Ordered and unordered lists
 - 04-links-images.html : Anchor tag and image tag usage
+- 05-tables.html : Table creation using table, tr, th, td
 
 
 ## Goal

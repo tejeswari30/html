@@ -13,6 +13,8 @@ This repository contains my HTML learning journey from scratch.
 
 ## Files
 - 01-html-structure.html : Basic HTML document structure
+- 02-text-tags.html : Headings, paragraph and text formatting tags
+
 
 ## Goal
 To build a strong foundation in HTML and move to CSS and JavaScript.

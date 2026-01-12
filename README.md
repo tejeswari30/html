@@ -18,6 +18,7 @@ This repository contains my HTML learning journey from scratch.
 - 04-links-images.html : Anchor tag and image tag usage
 - 05-tables.html : Table creation using table, tr, th, td
 - 06-forms.html : Basic HTML form with input fields
+- 07-semantic-tags.html : Semantic HTML layout using header, nav, main, footer
 
 
 ## Goal
